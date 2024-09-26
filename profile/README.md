@@ -1,5 +1,5 @@
 
-## Hi there 👋Welcome to Prabhu's mini Projects 
+## Hi there 👋 🏛️ Welcome to Prabhu's mini Projects 🏢 
 
 <h5 align="left">
   <a href="https://github.com/PrabhukumarSivamoorthy">
@@ -9,7 +9,7 @@
 
 🙋‍♀️ A short introduction : Contains  mini projects &amp; prototype version complex projects 
 
-### Overview of Repositories
+### Our Repositories 📦
 
 Here’s a quick summary of all repositories in my organization:
 
@@ -27,31 +27,39 @@ Here’s a quick summary of all repositories in my organization:
 - **Archived**: No longer actively maintained.
 
 ##
+<!-- Used tag to avoid a line below -->
 <h3 align="left">
- Connect with me:
+ Connect with me: 🤝
 </h2>
 
+<!-- created a container to hold all the links and align to left -->
 <p align="left">
-  
-<a href="https://github.com/PrabhukumarSivamoorthy" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="[GitHub profile](https://github.com/PrabhukumarSivamoorthy)" width="40" height="40"/>
-  <b>GitHub</b>
-</a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhukumarsivamoorthy/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhukumarsivamoorthy/" height="30" width="40" /><b>LinkedIn</b>
-</a>
+   <!-- Linkedin -->
+  <a href="https://github.com/PrabhukumarSivamoorthy" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="[GitHub profile](https://github.com/PrabhukumarSivamoorthy)" width="40" height="40"/>
+    <b>GitHub</b>
+  </a>
 
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26809936/prabhukumar-sivamoorthy" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26809936/prabhukumar-sivamoorthy" height="30" width="40" />
+ <!-- Linkedin -->
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhukumarsivamoorthy/" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhukumarsivamoorthy/" height="30" width="40" />
+  LinkedIn
+ </a>
+
+ <!-- Stack overflow -->
+ <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26809936/prabhukumar-sivamoorthy" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26809936/prabhukumar-sivamoorthy" height="30"        width="40" />
   Stack <b>Overflow</b>
-</a>
+ </a>
 
-<a href="https://www.leetcode.com/https://leetcode.com/u/prabhukumar_sivamoorthy/" target="blank">
+ <!-- Leetcode -->
+ <a href="https://www.leetcode.com/https://leetcode.com/u/prabhukumar_sivamoorthy/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prabhukumar_sivamoorthy/" height="30" width="40" />
   LeetCode
-</a>
+ </a>
 </p>
+
 
 ##
 
