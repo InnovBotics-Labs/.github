@@ -15,8 +15,8 @@ Here’s a quick summary of all repositories in my organization:
 
 | Repository Name | Description                          | Language   | Status        |
 |------------------|--------------------------------------|------------|---------------|
-| **[Analyser](https://github.com/Prabhu-s-mini-projects/Analyser)**    | Scripts for analysing the banks statements       | Python, Batch | In Development        |
-| **[tiny-python-tasks](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)** | Mini Projects for Students              | Python     | In Development |
+| **[Analyser](https://github.com/Prabhu-s-mini-projects/Analyser)** 💰 📈| Scripts for analysing the banks statements       | Python, Batch | In Development        |
+| **[tiny-python-tasks](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  👩🏻‍💻📓✍🏻💡 | Mini Projects for Students              | Python     | In Development |
 | **project-alpha**  | Web application development         | JavaScript | In Development        |
 | **project-beta** | Machine learning experiments        | Python     | In Development       |
 
