@@ -65,6 +65,12 @@ Here’s a quick summary of all repositories in my organization:
 
 ## 
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhukumarsivamoorthy&repo=tiny-python-tasks&show_icons=true&locale=en&layout=compact" alt="tiny-python-tasks" />
+
+</p>
+
+
 <!--
 
 **Here are some ideas to get you started:**
