@@ -7,28 +7,28 @@
   </a>
 </h5>
 
-🙋‍♀️ A short introduction : Contains  mini projects &amp; prototype version complex projects 
+>🙋‍♀️ A short introduction : Contains  mini projects &amp; prototype version complex projects 
 
 ### Our Repositories 📦
 
-Here’s a quick summary of all repositories in my organization:
-
-| Repository Name | Description                          | Language   | Status        |
-|------------------|--------------------------------------|------------|---------------|
-| **[Analyser](https://github.com/Prabhu-s-mini-projects/Analyser)** 💰 📈| Scripts for analysing the banks statements       | Python, Batch | In Development        |
-| **[tiny-python-tasks](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  👩🏻‍💻📓✍🏻💡 | Mini Projects for Students              | Python     | In Development |
-| **project-alpha**  | Web application development         | JavaScript | In Development        |
-| **project-beta** | Machine learning experiments        | Python     | In Development       |
-
-
-<details closed>
-  <summary>Repository Status Legend</summary>
-    <p> </p>
-    <p>- <b>Active</b>: Actively maintained and regularly updated.</p>
-    <p>- <b>In Development</b>: Under active development with ongoing updates.</p>
-    <p>- <b>Archived</b>: No longer actively maintained.</p>
-</details>
-
+> Here’s a quick summary of all repositories in my organization:
+>
+>| Repository Name | Description                          | Language   | Status        |
+>|------------------|--------------------------------------|------------|---------------|
+>| **[Analyser](https://github.com/Prabhu-s-mini-projects/Analyser)** 💰 📈| Scripts for analysing the banks statements       | Python, Batch | In Development        |
+>| **[tiny-python-tasks](https://github.com/Prabhu-s-mini-projects/tiny-python-tasks)**  👩🏻‍💻📓✍🏻💡 | Mini Projects for Students              | Python     | In Development |
+>| **project-alpha**  | Web application development         | JavaScript | In Development        |
+>| **project-beta** | Machine learning experiments        | Python     | In Development       |
+>
+>
+><details closed>
+>  <summary>Repository Status Legend</summary>
+>    <p> </p>
+>    <p>- <b>Active</b>: Actively maintained and regularly updated.</p>
+>    <p>- <b>In Development</b>: Under active development with ongoing updates.</p>
+>    <p>- <b>Archived</b>: No longer actively maintained.</p>
+></details>
+>
 ##
 
 <!-- Used tag to avoid a line below -->
