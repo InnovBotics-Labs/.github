@@ -20,13 +20,17 @@ Here’s a quick summary of all repositories in my organization:
 | **project-alpha**  | Web application development         | JavaScript | In Development        |
 | **project-beta** | Machine learning experiments        | Python     | In Development       |
 
-#### Repository Status Legend
 
-- **Active**: Actively maintained and regularly updated.
-- **In Development**: Under active development with ongoing updates.
-- **Archived**: No longer actively maintained.
+<details closed>
+  <summary>Repository Status Legend</summary>
+    <p> </p>
+    <p>- <b>Active</b>: Actively maintained and regularly updated.</p>
+    <p>- <b>In Development</b>: Under active development with ongoing updates.</p>
+    <p>- <b>Archived</b>: No longer actively maintained.</p>
+</details>
 
 ##
+
 <!-- Used tag to avoid a line below -->
 <h3 align="left">
  Connect with me: 🤝
