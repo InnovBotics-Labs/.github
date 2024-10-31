@@ -2,7 +2,7 @@
 
 
 <!-- Actual code -->
-## Hi there 👋 🏛️ Welcome to Prabhu's mini Projects 🏢 
+## Hi there 👋 🏛️ Welcome to InnovBotics Labs 🏢 
 
 <h5 align="left">
   <a href="https://github.com/PrabhukumarSivamoorthy">
