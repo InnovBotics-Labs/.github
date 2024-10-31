@@ -10,7 +10,7 @@
   </a>
 </h5>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Mini+Projects+Hub;All+Mini+Projects+are+mentioned+in+the+Summary+table+(Our+Repositories))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Mini+Projects+Hub+[+InnovBotics+Labs];All+Mini+Projects+are+mentioned+in+the+Summary+table+(Our+Repositories))](https://git.io/typing-svg)
 
 >🙋‍♀️ A short introduction : Contains  mini projects &amp; prototype version complex projects 
 
