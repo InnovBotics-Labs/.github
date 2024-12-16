@@ -12,7 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Mini+Projects+Hub+[+InnovBotics+Labs];All+Mini+Projects+are+mentioned+in+the+Summary+table+(Our+Repositories))](https://git.io/typing-svg)
 
->🙋‍♀️ A short introduction : Contains  mini projects &amp; prototype version complex projects 
+>🙋‍♀️ Innovate | Automate | Transform
+> Owned by Prabhukumar Sivamoorthy, InnovBotics Labs is a platform for innovative and hobby-driven projects. Focused on robotics, AI, IoT, and software development, we bring creative ideas to life through practical and impactful solutions. Explore our repositories and join us in shaping the future of technology through passion and innovation.
 
 ### Our Repositories 📦
 
